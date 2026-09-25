@@ -14,7 +14,7 @@ Location: Russia
 Locales: ru_RU, en_US
 Languages: Python
 Tools: Linux, Neovim
-Learning: Rust
+Learning: C
 Hobbies: Coding, Gaming, Reading, Ricing, Anime
 Telegram: -
 Message: Nice to meet you!
