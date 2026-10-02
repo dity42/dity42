@@ -16,6 +16,4 @@ Languages: Python
 Tools: Linux, Neovim
 Learning: C/C++
 Hobbies: Coding, Gaming, Reading, Ricing, Anime
-Telegram: -
-Message: Nice to meet you!
 ```
