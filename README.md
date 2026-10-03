@@ -7,8 +7,8 @@
 ```csharp
 dity@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: fish 4.8.1
+OS: NixOS
+Shell: fish
 Pronouns: He/Him
 Location: Russia
 Locales: ru_RU, en_US
