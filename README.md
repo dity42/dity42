@@ -6,7 +6,7 @@
 
 ```csharp
 dity@github
--------------------------
+-----------------------------------------------
 OS: NixOS
 Shell: fish
 Pronouns: He/Him
