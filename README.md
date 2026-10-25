@@ -13,7 +13,7 @@
   Locales: ru_RU, en_US
   Languages: Python
   Tools: Linux, Neovim
-  Learning: C/C++, Embedded, Rust
+  Learning: C/C++, Embedded
   Hobbies: Coding, Gaming, Reading, Ricing, Anime
 └────────────────────────────────────────────────────────┘
 ```
