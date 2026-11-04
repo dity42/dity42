@@ -14,6 +14,6 @@
   Languages: Python
   Tools: Linux, Neovim
   Learning: C/C++, Embedded
-  Hobbies: Coding, Gaming, Reading, Ricing, Anime
+  Hobbies: Coding, Reading, Ricing, Anime
 └────────────────────────────────────────────────────────┘
 ```
