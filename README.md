@@ -12,8 +12,9 @@
   Location: Russia
   Locales: ru_RU, en_US
   Languages: Python
+  Frameworks: -
   Tools: Linux, Neovim
-  Learning: C/C++, Embedded
+  Learning: ML
   Hobbies: Coding, Reading, Ricing, Anime
 └────────────────────────────────────────────────────────┘
 ```
