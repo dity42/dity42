@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.7AdguIkU8I75Y1FXH-yeTwHaHZ%3Fr%3D0%26pid%3DApi&f=1&ipt=ff347d445dc6bb9364a7fc1a0843e76823e3a194f2dd89ce99502f8da6145c66&ipo=images" width="290" /> 
+<img align="left" src="https://github.com/user-attachments/assets/7890e091-30fd-4f6c-8d7d-58ed1d0e87e4" width="290" /> 
 
 ```csharp
 ┌────────────────────────────────────────────────────────┐
@@ -14,7 +14,7 @@
   Languages: Python
   Frameworks: -
   Tools: Linux, Neovim
-  Learning: ML
+  Learning: ...
   Hobbies: Coding, Reading, Ricing, Anime
 └────────────────────────────────────────────────────────┘
 ```
