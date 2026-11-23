@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/7890e091-30fd-4f6c-8d7d-58ed1d0e87e4" width="290" /> 
+<img align="left" src="https://github.com/user-attachments/assets/e9bb7f77-dc0f-49a6-9c72-98f0fc699de4" width="290" /> 
 
 ```csharp
 ┌────────────────────────────────────────────────────────┐
